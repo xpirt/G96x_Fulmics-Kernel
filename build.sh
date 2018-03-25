@@ -1,7 +1,7 @@
 #!/bin/bash
 # kernel build script by Tkkg1994
 
-export MODEL=star2lte
+export MODEL=starlte
 export VARIANT=eur
 export ARCH=arm64
 export BUILD_CROSS_COMPILE=/mnt/c/Ubuntu/aarch64-linux-android-4.9/bin/aarch64-linux-android-
